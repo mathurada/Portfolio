@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://github.com/StartBootstrap/portfolior/src/assets/img/portfolio/portfolio.png)](https://github.com/StartBootstrap/portfolior)
+[![Freelancer Preview](https://drive.google.com/drive/folders/0ByoaWTVKBq9OTGlCc0NDc3I3ekE)](https://github.com/StartBootstrap/portfolior)
 
 **[View Live Preview](https://github.com/StartBootstrap/portfolior)**
 
