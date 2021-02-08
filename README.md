@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Freelancer Preview](https://github.com/portfolior/src/assets/img/portfolio/portfolio.png)](https://github.com/StartBootstrap/portfolior)
+[![Freelancer Preview](https://github.com/portfolior/src/assets/img/portfolio/portfolio.png)](https://github.com/portfolior/src/assets/img/portfolio/portfolio.png)
 
-**[View Live Preview](https://startbootstrap.github.io/portfolior/)**
+**[View Live Preview](https://github.com/portfolior/src/assets/img/portfolio/portfolio.png)**
 
 ## Status
 
