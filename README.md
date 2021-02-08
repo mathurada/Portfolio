@@ -1,12 +1,12 @@
-# [Portfolio](https://github.com/StartBootstrap/portfolior)
+# [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
 
 [Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
 
 ## Preview
 
-[![Freelancer Preview](https://drive.google.com/drive/folders/0ByoaWTVKBq9OTGlCc0NDc3I3ekE)](https://github.com/StartBootstrap/portfolior)
+[![Freelancer Preview](https://github.com/portfolior/src/assets/img/portfolio/portfolio.png)](https://github.com/StartBootstrap/portfolior)
 
-**[View Live Preview](https://github.com/StartBootstrap/portfolior)**
+**[View Live Preview](https://startbootstrap.github.io/portfolior/)**
 
 ## Status
 
