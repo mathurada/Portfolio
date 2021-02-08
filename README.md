@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://github.com/mathurada/portfolio/blob/master/portfolio.PNG?raw=true)](/portfolio.PNG)
+[![Freelancer Preview](https://github.com//mathurada/portfolio/blob/master/portfolio.png?raw=true)](https://github.com//mathurada/portfolio/blob/master/portfolio.png?raw=true)
 
 ## Status
 
