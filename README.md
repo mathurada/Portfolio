@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Freelancer Preview](https://github.com/portfolio/src/assets/img/portfolio.png)](https://github.com/portfolio/src/assets/img/portfolio.png)
+[![Freelancer Preview](https://github.com/portfolio/src/assets/img/portfolio/portfolio.png)](https://github.com/portfolio/src/assets/img/portfolio/portfolio.png)
 
-**[View Live Preview](https://github.com/portfolio/src/assets/img/portfolio.png)**
+**[View Live Preview](https://github.com/portfolio/src/assets/img/portfolio/portfolio.png)**
 
 ## Status
 
