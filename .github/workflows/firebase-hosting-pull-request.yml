@@ -13,6 +13,6 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_STARTBOOTSTRAP_20C42 }}'
-          projectId: startbootstrap-20c42
+          projectId: portfolio
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels

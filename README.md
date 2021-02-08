@@ -1,10 +1,10 @@
-# [Portfolio](https://github.com/mathurada/portfolio)
+# [Portfolio](https://portfolio-mathurada-aor.web.app/)
 
 [Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
 
 ## Preview
 
-[![Freelancer Preview](https://github.com//mathurada/portfolio/blob/master/portfolio.png?raw=true)](https://github.com//mathurada/portfolio/blob/master/portfolio.png?raw=true)
+[![Freelancer Preview](https://github.com//mathurada/portfolio/blob/master/portfolio.png?raw=true)](https://portfolio-mathurada-aor.web.app/)
 
 ## Status
 
